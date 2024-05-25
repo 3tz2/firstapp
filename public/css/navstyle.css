@@ -1,0 +1,12 @@
+.nav-link{
+    /* border: 1px solid black !important; */
+    border-radius: 20px !important;
+    padding: 10px;
+}
+.nav-link:hover{
+
+    box-shadow: 2px 2px 25px black, 2px 2px 25px black;
+    background-color: black;
+    color: yellow !important;
+    transition: ease-in-out 0.6s;
+}
